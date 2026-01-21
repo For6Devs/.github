@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 for6devs
+# 🚀 For6Devs
 
 ### Transformando ideias em soluções tecnológicas
 
